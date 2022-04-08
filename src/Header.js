@@ -3,8 +3,8 @@
 function Header(){
 
     return(
-     <div className='Header'>
-        Welcome to Program Generator!
+     <div className='p-3 mb-0' style={{backgroundColor:'#1A374D', color:'#6998AB'}}>
+          <h1 className="display-4">Welcome to Program Generator!</h1>
       </div>
     );
 
