@@ -153,7 +153,13 @@ function handleClickRecomp(){
         </table>
         Your program:
         <br/>
+        
+          <div style={{backgroundColor:'#FAEBD7', textAlign : "center"}}>
+        
         {program}
+
+        </div>
+        
 
         </div>
         
